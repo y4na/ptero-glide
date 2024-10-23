@@ -20,6 +20,6 @@ dot.edge('q1', 'q4', 'Score >= 300')
 dot.edge('q4', 'q5', 'Score >= 600')
 dot.edge('q1', 'q1', 'Score Increment, Speed Change')
 
-dot.node('legend', label='Legend:\nq0: Initial State\nq1: Game Running\nq2: Jump Action\nq3: Collision Detected\nq4: Score >= 300\nq5: Score >= 600 (End)', shape='box', fontsize='10')
+dot.node('legend', label='Legend:\nq0: Initial State\nq1: Game Running\nq2: Jump Action\nq3: Collision Detected\nq4: Score >= 300 BG change\nq5: Score >= 600 BG change (End)', shape='box', fontsize='10')
 
 dot.render('dfa_graph', format='png', cleanup=True)

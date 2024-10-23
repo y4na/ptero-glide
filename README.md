@@ -1,6 +1,8 @@
 # Ptero Glide // Applications of Finite Automata
 <div align = "center">
   <img src = "images/ui/ptero-glide.gif" alt = "Demo"/>
+  
+  <br> Full project demo: [Ptero Glide Gameplay](https://youtu.be/WWEJSYqGuKQ)
 </div>
 <br> Ptero Glide is a simple endless runner game where players control a pterodactyl gliding through a vibrant landscape. The objective is to dodge various obstacles, all while maintaining momentum and speed.
 <br>
@@ -57,7 +59,7 @@ The FSM represents the game's states, showing how the game transitions between t
 <div align = "center">
   
   ### SPACEBAR or UP ARROW KEY to jump <br>
-  Full project demo: [Ptero Glide Gameplay](URL)
+  Full project demo: [Ptero Glide Gameplay](https://youtu.be/WWEJSYqGuKQ)
   ### ∘₊✧──────✧₊∘ UI SHOWCASE ∘₊✧──────✧₊∘
   ### Main Menu
   <img src = "images/ui/menu.png" alt = ""/> 

@@ -1,4 +1,4 @@
-# Ptero Glide
+# Ptero Glide // Applications of Finite Automata
 <div align = "center">
   <img src = "images/ui/ptero-glide.gif" alt = "Demo"/>
 </div>
@@ -25,12 +25,11 @@ The FSM represents the game's states, showing how the game transitions between t
   <br>╔══════════════════╗
   <br> <b> DFA VISUALIZATION </b>
   <br>╚══════════════════╝
-  <br> DFA visualized using [Graphviz](https://graphviz.org/download/)
+  <br> <img src = "images/dfa_graph.png" alt = "DFA"/> 
+  
 </div>
-<br>
-<div align = "center">
-  <img src = "images/dfa_graph.png" alt = "DFA"/>
-</div>
+
+
 
 <div align = "center">
   <br>╔══════════════════╗

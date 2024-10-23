@@ -29,10 +29,75 @@ The FSM represents the game's states, showing how the game transitions between t
   
 </div>
 
-
-
 <div align = "center">
   <br>╔══════════════════╗
   <br> <b> TRANSITION TABLE </b>
   <br>╚══════════════════╝
+  <br> <img src = "images/transition_table.png" alt = "Transition Table"/> 
+</div>
+
+## Installation Guide
+   Clone the repository:
+   ```bash 
+   git clone https://github.com/y4na/ptero-glide.git
+   ```
+  Activate the virtual environment:
+   ```bash 
+   .venv\Scripts\activate
+  ```
+  Install the required dependencies:
+  ```bash 
+   pip install pygame
+  ```
+  Run the game:
+  ```bash 
+   python main.py
+  ```
+## Gameplay
+<div align = "center">
+  
+  ### SPACEBAR or UP ARROW KEY to jump <br>
+  Full project demo: [Ptero Glide Gameplay](URL)
+  ### ∘₊✧──────✧₊∘ UI SHOWCASE ∘₊✧──────✧₊∘
+  ### Main Menu
+  <img src = "images/ui/menu.png" alt = ""/> 
+  
+  ### Main Background
+  <img src = "images/ui/bg 1.png" alt = ""/>
+ 
+  ### Background Change when score reaches 300
+  <img src = "images/ui/bg 2.png" alt = ""/> 
+  
+  ### Background Change when score reaches 600
+  <img src = "images/ui/bg 3.png" alt = ""/> 
+
+  ### Game Over Screen
+  <img src = "images/ui/game over.png" alt = ""/> 
+</div>
+
+## Credits
+<div align = "center">
+
+  ### ∘₊✧──────✧₊∘ GRAPHIC ELEMENTS ∘₊✧──────✧₊∘
+  [pterodactyl sprite](https://tonguesurgery.itch.io/tiny-dinosaur) <br>
+  [backgrounds](https://craftpix.net/freebies/free-sky-with-clouds-background-pixel-art-set/) <br>
+  [font](https://fontshub.pro/font/junglewood-download) <br>
+  [tree obstacle](https://craftpix.net/freebies/free-tree-pixel-art-asset-pack/) <br>
+  [rock obstacle](https://craftpix.net/freebies/free-rocks-pixel-art-asset-pack/) <br>
+
+  ### ∘₊✧──────✧₊∘ SOUND EFFECTS and MUSIC ∘₊✧──────✧₊∘
+  [jump & death sfx](https://www.sounds-resource.com/browser_games/googlechromedinosaurgame/sound/18002/) <br>
+  [whoosh sfx](https://mixkit.co/free-sound-effects/whoosh/) <br>
+  [background music](https://www.fesliyanstudios.com/musicfiles/2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda/Faster-Tempo-2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda.mp3) <br>
+  
+  ### ∘₊✧──────✧₊∘ VIDEO TUTORIALS ∘₊✧──────✧₊∘
+  [Parallax Background Scrolling by CodingWithRuss](https://www.youtube.com/watch?v=OAH8K5lVYOU) <br>
+  [Pygame Tutorial by TechWithTim](https://www.youtube.com/watch?v=waY3LfJhQLY) <br>
+  [Chrome Dino Game by Max Rohowsky](https://youtube.com/playlist?list=PL30AETbxgRfAbwiuU1vDl3owNUPUuVrz&si=GH_e6MfRM7wSo3Ek) <br>
+
+  ### ∘₊✧──────✧₊∘ TOOLS and LIBRARIES  ∘₊✧──────✧₊∘
+  [Install Python](https://www.python.org/downloads/) <br>
+  [Pygame Library](https://www.pygame.org/) <br>
+  [Graphviz Library Visualization Tool](https://graphviz.org/download/) <br>
+  [Sprite Cutter](https://ezgif.com/sprite-cutter) <br>
 </div>

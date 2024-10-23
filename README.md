@@ -93,7 +93,7 @@ The FSM represents the game's states, showing how the game transitions between t
   ### ∘₊✧──────✧₊∘ VIDEO TUTORIALS ∘₊✧──────✧₊∘
   [Parallax Background Scrolling by CodingWithRuss](https://www.youtube.com/watch?v=OAH8K5lVYOU) <br>
   [Pygame Tutorial by TechWithTim](https://www.youtube.com/watch?v=waY3LfJhQLY) <br>
-  [Chrome Dino Game by Max Rohowsky](https://youtube.com/playlist?list=PL30AETbxgRfAbwiuU1vDl3owNUPUuVrz&si=GH_e6MfRM7wSo3Ek) <br>
+  [Chrome Dino Game by Max Rohowsky](https://www.youtube.com/watch?v=KOBKkPWGP-g&list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz) <br>
 
   ### ∘₊✧──────✧₊∘ TOOLS and LIBRARIES  ∘₊✧──────✧₊∘
   [Install Python](https://www.python.org/downloads/) <br>

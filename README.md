@@ -88,7 +88,7 @@ The FSM represents the game's states, showing how the game transitions between t
   ### ∘₊✧──────✧₊∘ SOUND EFFECTS and MUSIC ∘₊✧──────✧₊∘
   [jump & death sfx](https://www.sounds-resource.com/browser_games/googlechromedinosaurgame/sound/18002/) <br>
   [whoosh sfx](https://mixkit.co/free-sound-effects/whoosh/) <br>
-  [background music](https://www.fesliyanstudios.com/musicfiles/2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda/Faster-Tempo-2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda.mp3) <br>
+  [background music](https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-surf/568) <br>
   
   ### ∘₊✧──────✧₊∘ VIDEO TUTORIALS ∘₊✧──────✧₊∘
   [Parallax Background Scrolling by CodingWithRuss](https://www.youtube.com/watch?v=OAH8K5lVYOU) <br>

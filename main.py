@@ -13,7 +13,7 @@ icon = pygame.image.load("assets/sprites/ptero_png.png")
 pygame.display.set_icon(icon)
 
 scroll = 0
-speed = 0.3
+speed = 0.4
 
 jump_sound = pygame.mixer.Sound("assets/sfx/jump.wav")
 death_sound = pygame.mixer.Sound("assets/sfx/die.wav")
@@ -122,7 +122,7 @@ def draw_ground():
 #ptero is my character 
 class ptero:
     X_POS = 80
-    JUMP_VEL = 18 # how high mo jump
+    JUMP_VEL = 25 # how high mo jump
     OFFSET = 25
     
     def __init__(self):
@@ -164,7 +164,7 @@ class ptero:
         self.image = self.jump_img
         if self.ptero_jump:
             self.ptero_rect.y -= self.jump_vel
-            self.jump_vel -= 0.8 # landing
+            self.jump_vel -= 1.5 # landing
 
             if self.ptero_rect.y >= HEIGHT - ground_height - self.image.get_height() - self.OFFSET:
                 self.ptero_rect.y = HEIGHT - ground_height - self.image.get_height() - self.OFFSET

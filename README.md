@@ -3,6 +3,7 @@
   <a href = "https://youtu.be/WWEJSYqGuKQ">
   <img src = "images/ui/ptero-glide.gif" alt = "Demo"/>
   </a>
+  
   <br> Full project demo: [Ptero Glide Gameplay](https://youtu.be/WWEJSYqGuKQ)
 </div>
 <br> Ptero Glide is a simple endless runner game where players control a pterodactyl gliding through a vibrant landscape. The objective is to dodge various obstacles, all while maintaining momentum and speed.
